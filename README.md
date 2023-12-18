@@ -1,4 +1,4 @@
-# Calc.js
+# Login Screen
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/WiliamBispo/login-screen/blob/main/LICENSE) 
 
 # Sobre o projeto
