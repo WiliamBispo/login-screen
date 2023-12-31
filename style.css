@@ -116,3 +116,10 @@ body {
     text-decoration: underline;
 }
 
+@media (max-width: 375px) {
+    .section {
+        padding: 2rem;
+    }
+
+}
+
